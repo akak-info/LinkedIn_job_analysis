@@ -1,0 +1,183 @@
+﻿company_id,company name,linkedin_followers,industry,employees_count(min),employees_count(max)
+comp_id_1001,PediaGeek,12392,Internet Publishing,51,200
+comp_id_1002,Corizo,19571,E-Learning Providers,51,200
+comp_id_1003,Brainalyst Pvt. Ltd.,1246,IT Services and IT Consulting,11,50
+comp_id_1004,Giant Eagle GCC,N/A,IT Services and IT Consulting,51,200
+comp_id_1005,Accenture in India,1399744,IT Services and IT Consulting,10000,10001
+comp_id_1006,SkillVertex,106102,E-Learning Providers,201,500
+comp_id_1007,LitmusWorld,14952,IT Services and IT Consulting,51,200
+comp_id_1008,Shadowing AI,3410,"Technology, Information and Internet",11,50
+comp_id_1009,R K Enterprises,1918,Computer and Network Security,not_specify,not_specify
+comp_id_1010,Deputize Consultancy Pvt Ltd,14676,Human Resources Services,11,50
+comp_id_1011,ICE,127600,Financial Services,5001,10000
+comp_id_1012,JPMorgan Chase & Co.,3320425,Financial Services,10000,10001
+comp_id_1013,TeamPlus Staffing Solution Pvt Ltd,3818,Staffing and Recruiting,11,50
+comp_id_1014,Innointel,496,Software Development,11,50
+comp_id_1015,Subtlelabs,741,IT Services and IT Consulting,11,50
+comp_id_1016,Coincent.ai,N/A,E-Learning Providers,not_specify,not_specify
+comp_id_1017,State Street,435992,Financial Services,10000,10001
+comp_id_1018,Metvy,27264,E-Learning Providers,201,500
+comp_id_1019,MBA Hub,26248,E-Learning Providers,1,10
+comp_id_1020,Schneider Electric,3337635,"Appliances, Electrical, and Electronics Manufacturing",not_specify,not_specify
+comp_id_1021,FinByz Tech Pvt Ltd,1557,IT Services and IT Consulting,11,50
+comp_id_1022,Indika AI,3343,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1023,"Crafter,Inc",692,Entertainment Providers,1,10
+comp_id_1024,"Mettler-Toledo International, Inc",108845,"Appliances, Electrical, and Electronics Manufacturing",10000,10001
+comp_id_1025,KakshaCool,2023,Education,not_specify,not_specify
+comp_id_1026,AdAired Digital Media,2412,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1027,BharatPe,103928,Financial Services,not_specify,not_specify
+comp_id_1028,dentsu international,648058,Advertising Services,10000,10001
+comp_id_1029,IDBI Intech LTD,8412,IT Services and IT Consulting,1001,5000
+comp_id_1030,CRISIL Limited,N/A,Financial Services,1001,5000
+comp_id_1031,BAVCH EDUTECH,7742,E-Learning Providers,not_specify,not_specify
+comp_id_1032,SpotShine Consulting,2381,Human Resources Services,not_specify,not_specify
+comp_id_1033,Spectral Consultants,18420,Executive Search Services,11,50
+comp_id_1034,University of the People,N/A,Higher Education,201,500
+comp_id_1035,SKYREAD DIGITAL,14631,Book and Periodical Publishing,1,10
+comp_id_1036,RESEARCH DEVELOPERS,339,Education Administration Programs,51,200
+comp_id_1037,DBS Bank,762852,Banking,10000,10001
+comp_id_1038,Mace,339854,Construction,5001,10000
+comp_id_1039,Suvidha Foundation (Suvidha Mahila Mandal),49363,Non-profit Organizations,not_specify,not_specify
+comp_id_1040,Skill Mantra,1347,E-Learning Providers,1,10
+comp_id_1041,Godrej Infotech Ltd,22811,IT Services and IT Consulting,501,1000
+comp_id_1042,GoodSpace,32182,IT Services and IT Consulting,11,50
+comp_id_1043,VAHDAM® India,13924,Food and Beverage Services,201,500
+comp_id_1044,BT,567571,Telecommunications,10000,10001
+comp_id_1045,Work From Home,60081,Staffing and Recruiting,10000,10001
+comp_id_1046,Lernx,15572,E-Learning Providers,51,200
+comp_id_1047,FlywiseOverseas,398,Education Administration Programs,1,10
+comp_id_1048,CGI,925924,IT Services and IT Consulting,10000,10001
+comp_id_1049,Puma Energy,281057,Oil and Gas,1001,5000
+comp_id_1050,Cyberium Inc,627,Internet Publishing,51,200
+comp_id_1051,Protrainy,11312,E-Learning Providers,not_specify,not_specify
+comp_id_1052,MakeMyTrip,423553,"Technology, Information and Internet",1001,5000
+comp_id_1053,BNP Paribas,1182703,Banking,10000,10001
+comp_id_1054,Micron Technology,444261,Semiconductor Manufacturing,10000,10001
+comp_id_1055,Galytix,26453,IT System Custom Software Development,not_specify,not_specify
+comp_id_1056,Reward360 Global Services Pvt Ltd.,17251,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1057,Training Basket,981,IT Services and IT Consulting,11,50
+comp_id_1058,Digital WORK FROM HOME,16432,Wellness and Fitness Services,501,1000
+comp_id_1059,DMart - Avenue Supermarts Ltd,N/A,Retail,5001,10000
+comp_id_1060,BYJU'S,1533764,E-Learning Providers,not_specify,not_specify
+comp_id_1061,Capita,275710,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1062,Unilever,17910636,Manufacturing,not_specify,not_specify
+comp_id_1063,HSBC,3044341,Financial Services,not_specify,not_specify
+comp_id_1064,Merilytics,42948,Business Consulting and Services,not_specify,not_specify
+comp_id_1065,PRO Unlimited,147470,Software Development,1001,5000
+comp_id_1066,WynSwell [WynSwell Global Business Services (P) Ltd],1135,Business Consulting and Services,11,50
+comp_id_1067,SIDALCEAS EduTech,17942,E-Learning Providers,1,10
+comp_id_1068,Getsetfly Media,7022,Media Production,11,50
+comp_id_1069,LetsUpgrade,7530,E-Learning Providers,not_specify,not_specify
+comp_id_1070,UKG,N/A,Software Development,not_specify,not_specify
+comp_id_1071,Simai Management Consulting & Analytics Pvt Ltd,N/A,N/A,not_specify,not_specify
+comp_id_1072,Novastrid IT Ventures,N/A,N/A,not_specify,not_specify
+comp_id_1073,Intel Corporation,3063830,Semiconductor Manufacturing,not_specify,not_specify
+comp_id_1074,Turing.com,128053,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1075,Valiant Integrated Services,17286,Defense and Space Manufacturing,5001,10000
+comp_id_1076,TRK Footwear,1581,Footwear Manufacturing,51,200
+comp_id_1077,EdYoda (zekeLabs Technologies Pvt. Ltd.),14659,E-Learning Providers,not_specify,not_specify
+comp_id_1078,Wiley Edge,151951,IT Services and IT Consulting,1001,5000
+comp_id_1079,AboitizPower Coal BU,4826,Utilities,1001,5000
+comp_id_1080,Intellikart Ventures LLP,1547,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1081,Team fire 64🔥,8179,Advertising Services,201,500
+comp_id_1082,MNR Solutions Pvt. Ltd.,44412,Staffing and Recruiting,201,500
+comp_id_1083,Continental,1218176,Motor Vehicle Manufacturing,10000,10001
+comp_id_1084,Social Media Marketing,303,Advertising Services,51,200
+comp_id_1085,Ashok Kumar,4691,Wellness and Fitness Services,not_specify,not_specify
+comp_id_1086,Team 4 Progress Technologies,40847,Staffing and Recruiting,not_specify,not_specify
+comp_id_1087,NatWest Markets Plc,N/A,Banking,5001,10000
+comp_id_1088,PwC India,797536,Business Consulting and Services,not_specify,not_specify
+comp_id_1089,RK Enterprises,101,Real Estate,not_specify,not_specify
+comp_id_1090,Bankers without Boundaries,2969,Non-profit Organizations,not_specify,not_specify
+comp_id_1091,Vestige Marketing Pvt. Ltd.,N/A,Wellness and Fitness Services,not_specify,not_specify
+comp_id_1092,Great Place to Work® Institute (India),N/A,Business Consulting and Services,not_specify,not_specify
+comp_id_1093,WOWS GLOBAL,1915,Financial Services,not_specify,not_specify
+comp_id_1094,_VOIS,84104,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1095,AXLE,46,Mobile Computing Software Products,not_specify,not_specify
+comp_id_1096,Part Time Jobs,49434,Staffing and Recruiting,not_specify,not_specify
+comp_id_1097,Allscripts India,10338,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1098,UBS,1205267,Financial Services,not_specify,not_specify
+comp_id_1099,New Tech Solution,171,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1100,Hotstar,719276,"Technology, Information and Internet",not_specify,not_specify
+comp_id_1101,The Youth Edge,2684,Newspaper Publishing,not_specify,not_specify
+comp_id_1102,Citi,3812872,Financial Services,not_specify,not_specify
+comp_id_1103,Solutions HUB 360,319,Marketing Services,not_specify,not_specify
+comp_id_1104,Racanaa Energy,2649,"Appliances, Electrical, and Electronics Manufacturing",not_specify,not_specify
+comp_id_1105,Saadia Group,N/A,Retail,not_specify,not_specify
+comp_id_1106,Delta Travel Solutions Private Limited,16,Travel Arrangements,11,50
+comp_id_1107,PeopleDecode,1213,IT Services and IT Consulting,51,200
+comp_id_1108,Boeing,2777292,Aviation and Aerospace Component Manufacturing,10000,10001
+comp_id_1109,Goyal MR & Associates,N/A,N/A,not_specify,not_specify
+comp_id_1110,Globant,622630,IT Services and IT Consulting,10000,10001
+comp_id_1111,Riddhi Siddhi Infotech,2277,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1112,Ascent BPO Services Pvt. Ltd.,12975,Outsourcing and Offshoring Consulting,11,50
+comp_id_1113,Alstom,1025354,Rail Transportation,9,not_specify
+comp_id_1114,Hike Education,8773,Education Administration Programs,201,500
+comp_id_1115,Digital Entrepreneur,2339,"Technology, Information and Internet",not_specify,not_specify
+comp_id_1116,Republic World,N/A,Broadcast Media Production and Distribution,1001,5000
+comp_id_1117,NatWest Group,520043,Banking,10000,10001
+comp_id_1118,Hathway Cable & Datacom Ltd,13381,"Technology, Information and Internet",not_specify,not_specify
+comp_id_1119,TECYGIG,28,IT Services and IT Consulting,1,10
+comp_id_1120,"Medline Industries, LP",197795,Medical Equipment Manufacturing,10000,10001
+comp_id_1121,Quantsapp,6683,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1122,Cloudphysician,25673,Hospitals and Health Care,51,200
+comp_id_1123,Edu-versity,373,E-Learning Providers,not_specify,not_specify
+comp_id_1124,GeekyAnts,96031,IT Services and IT Consulting,501,1000
+comp_id_1125,Digital entrepreneurship,N/A,Advertising Services,201,500
+comp_id_1126,Universal Tribes,28655,Retail Art Supplies,201,500
+comp_id_1127,Part time work from home oppotunity,N/A,Wellness and Fitness Services,201,500
+comp_id_1128,ILP Overseas | International Learning Planners,42657,Education Administration Programs,not_specify,not_specify
+comp_id_1129,Skilltoppr,35,E-Learning Providers,not_specify,not_specify
+comp_id_1130,Professionbeat,5628,E-Learning Providers,1,10
+comp_id_1131,NetApp,620688,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1132,G. P. KAPADIA & CO,628,Financial Services,51,200
+comp_id_1133,LTI - Larsen & Toubro Infotech,1759655,IT Services and IT Consulting,10000,10001
+comp_id_1134,TresVista,45030,Financial Services,1001,5000
+comp_id_1135,"Q1 Technologies, Inc.",8846,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1136,Workatonce,1220,Human Resources Services,not_specify,not_specify
+comp_id_1137,Code Karo Yaaro,8664,E-Learning Providers,51,200
+comp_id_1138,S&P Global Commodity Insights,N/A,Oil and Gas,not_specify,not_specify
+comp_id_1139,ONLINE WORK FROM HOME,N/A,Wellness and Fitness Services,201,500
+comp_id_1140,Blockchain Technology,1509,IT Services and IT Consulting,501,1000
+comp_id_1141,Zaggle,34488,"Technology, Information and Internet",201,500
+comp_id_1142,Network Digital Marketing,1709,Advertising Services,11,50
+comp_id_1143,Bizgurukul,44381,E-Learning Providers,not_specify,not_specify
+comp_id_1144,Overture Rede,735,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1145,Argenta,17244,Banking,not_specify,not_specify
+comp_id_1146,Genpact,2031685,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1147,GE Aviation,803539,Aviation and Aerospace Component Manufacturing,10000,10001
+comp_id_1148,Honeywell,2221677,"Appliances, Electrical, and Electronics Manufacturing",10000,10001
+comp_id_1149,PickMyWork,23081,Financial Services,11,50
+comp_id_1150,Siveals,227,Facilities Services,1,10
+comp_id_1151,ACS Networks,2053,Professional Training and Coaching,11,50
+comp_id_1152,Ivy,39671,Software Development,1001,5000
+comp_id_1153,In Time Tec,29150,Software Development,not_specify,not_specify
+comp_id_1154,Input Zero Technologies Pvt. Ltd.,2926,IT Services and IT Consulting,51,200
+comp_id_1155,Veritas Technologies LLC,134509,Software Development,5001,10000
+comp_id_1156,Olive Green Consulting,26525,Business Consulting and Services,51,200
+comp_id_1157,Radiometer,39304,Medical Equipment Manufacturing,1001,5000
+comp_id_1158,Teachnook,16168,E-Learning Providers,51,200
+comp_id_1159,GLOINNT Solutions Pvt. Ltd.,20920,Aviation and Aerospace Component Manufacturing,not_specify,not_specify
+comp_id_1160,The IT Mind,7240,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1161,Online Business Opportunity_Work From Home,21932,Wellness and Fitness Services,not_specify,not_specify
+comp_id_1162,Playto Labs,N/A,E-Learning Providers,11,50
+comp_id_1163,Emerging India Analytics,923,E-Learning Providers,not_specify,not_specify
+comp_id_1164,WORK FROM ANYWHERE PART/FULL TIME,11411,Staffing and Recruiting,not_specify,not_specify
+comp_id_1165,TransUnion,277613,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1166,Ashra Technologies Private Limited,11355,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1167,GC Trainings,N/A,Education,not_specify,not_specify
+comp_id_1168,JLL Technologies,38352,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1169,LiquiLoans,10319,Financial Services,201,500
+comp_id_1170,Earnly,157,Marketing Services,not_specify,not_specify
+comp_id_1171,Cipla,977752,Pharmaceutical Manufacturing,not_specify,not_specify
+comp_id_1172,Online Opportunity Work From Home,117450,Wellness and Fitness Services,not_specify,not_specify
+comp_id_1173,RecruitNXT,26400,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1174,Morningstar,211529,Financial Services,not_specify,not_specify
+comp_id_1175,Shrinkcom Software Pvt. Ltd.,2691,IT Services and IT Consulting,not_specify,not_specify
+comp_id_1176,Mentorsity,19455,E-Learning Providers,51,200
+comp_id_1177,Khooobsooorat Beauty,52,"Technology, Information and Internet",1,10
+comp_id_1178,IBST Private Limited,N/A,N/A,not_specify,not_specify
+comp_id_1179,PPD,444609,Research Services,not_specify,not_specify
+comp_id_1180,Procter & Gamble,7039940,Manufacturing,10000,10001
+comp_id_1181,Fundook,N/A,Sporting Goods Manufacturing,not_specify,not_specify
+comp_id_1182,Tesco Bengaluru,182301,Retail,not_specify,not_specify
