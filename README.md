@@ -4,7 +4,6 @@ this project is a real world project which is based on linkedin. for this projec
 
 
 # Features:-<br />
-## Comparison between two cities By 
  ----Top Industry Wise Job Openings with Job Type <br />
  ----Jobs by Involvement<br />
  ----Company Size According To LinkedIn Followers<br />
@@ -22,5 +21,5 @@ this project is a real world project which is based on linkedin. for this projec
 
 
  
- # my project look like----
+ # My project look like----
 ![image](https://user-images.githubusercontent.com/90344769/193395841-bc588257-7a86-47ee-8e0c-23df95f070c8.png)
