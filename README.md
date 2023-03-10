@@ -1,3 +1,8 @@
+ # My project look like----
+![image](https://user-images.githubusercontent.com/90344769/193395841-bc588257-7a86-47ee-8e0c-23df95f070c8.png)
+
+
+
 # LinkedIn_job_analysis
 this project is a real world project which is based on linkedin. for this project i scrap job data from linkedin and find some insights. 
 
@@ -21,5 +26,3 @@ this project is a real world project which is based on linkedin. for this projec
 
 
  
- # My project look like----
-![image](https://user-images.githubusercontent.com/90344769/193395841-bc588257-7a86-47ee-8e0c-23df95f070c8.png)
